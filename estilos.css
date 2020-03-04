@@ -1,0 +1,26 @@
+p {
+
+   font-size: 30px;
+   font-family: "Segoe Script";
+   font-weight: bold;
+   font-style: italic;
+   color:#7E98FF;
+   text-align: right;
+
+}
+body{
+    background-color: #FFFFA8;
+
+}
+header{
+    background-color: #C3FF5A;
+
+}
+main{
+    background-color: #F67472;
+
+}
+footer{
+    background-color: #F672E6;
+
+}
